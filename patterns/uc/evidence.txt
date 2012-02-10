@@ -1,0 +1,18 @@
+= UseCase Evidence object =
+
+== description ==
+Zalozeni/zmena/zruseni [[object]].
+
+== preconditions ==
+
+== scenario ==
+Pro zalozeni noveho [[object]] uzivatel pouzije [[uc_ins_zalozeni_object]].
+Pro zmenu udaju jiz evidovaneho [[ucet]] uzivatel pouzije [[uc_upd_zmena_object]].
+Pro zruseni evidovaneho [[ucet]] uzivatel pouzije [[uc_del_zruseni_object]].
+
+== postconditions ==
+- Je zalozen/zmenen/zrusen [[object]]. 
+
+== errors ==
+
+
