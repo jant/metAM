@@ -1,0 +1,20 @@
+= UseCase <<delete>> Zruseni object =
+
+== description ==
+
+Uzivatel zrusi evidovany [[object]].
+
+== preconditions ==
+  
+== scenario ==
+
+Uzivatel urci [[object]], ktery chce zrusit.
+
+System zrusi kartu [[object]].
+
+== postconditions ==
+- Je zrusen [[object]]. 
+
+== errors ==
+
+

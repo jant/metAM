@@ -1,0 +1,25 @@
+- popisuje ho textove ve formatu USE http://www.db.informatik.uni-bremen.de/projects/USE/#overview
+- pouzivej anglictinu, je to vystiznejsi 
+- jmena atributu zapisuj ruby syntaxi - tzn. podtrzitka
+- omezeni zapisuj OCL syntaxi
+- ocl zapis je az na konci pro zajimavost a moznost otestovani v USE
+- omezeni pis jednotlive, at muzes snadno naparovat chybove hlasky
+  - pouzivej cislovani invariantu
+
+
+= bp model =
+- nazvy psat s podtrzitky - potom funguji slovniky, s pomlckami nefunguji
+
+= uc model =
+Pouzivej pojmy:
+- {+} znamena tag pro povinny udaj (required)
+- {i} znamena tag pro udaj, ktery je soucasti identifikatoru
+- zalozi/zmeni/zrusi
+- zada (vyplni) udaj
+- formular nebo karta nebo oboji?
+- karta
+- povinny = required, oznaceni tagem {+}
+- pouzivej pojem identifikator pro PK, oznaceni tagem {i}  
+- jak pro primitivy, tak pro zaznamy pouzivaj spojeni "uzivatel zada" a
+  nepouzivej pro zaznamy "uzivatel urci"
+

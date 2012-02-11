@@ -1,0 +1,22 @@
+= UseCase <<list>> Seznam object =
+
+== description ==
+
+System predlozi seznam evidovanych [[object]].
+
+== preconditions ==
+
+== scenario ==
+
+System predlozi seznam evidovanych [[object]], ktery obsahuje tyto udaje:
+- [[attr]]
+...
+
+== postconditions ==
+
+== errors ==
+
+ 
+
+
+

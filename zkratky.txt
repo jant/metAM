@@ -1,0 +1,20 @@
+prvky UML:
+acv     Activity
+uc      Use Case
+cls     Class
+obj     Object
+pkg     Package
+
+
+stereotypy:
+bp      Business Process (Proces podniku)
+bpg     Bussiness Process Group (Skupina procesu podniku)
+cpt     Concept (Pojem)
+ins     Insert (Zalozeni)
+upd     Update (Zmena)
+del     Delete (Zruseni)
+val     Validation (Overeni spravnosti)
+det     Determination (Urceni)
+list    List (Seznam)
+
+

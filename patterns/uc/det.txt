@@ -1,0 +1,25 @@
+= UseCase <<determination>> Urceni object =
+
+== description ==
+
+Uzivatel urci prave jeden [[object]] evidovany v systemu.
+
+== preconditions ==
+
+== scenario ==
+
+System predlozi prazdny formular. Uzivatel zada nasledujici identifikacni udaje:
+- [[attr]]
+
+Pro zjisteni, ktere [[object]] jsou v systemu evidovane, uzivatel pouzije
+[[uc_list_seznam_object|seznam]].
+  
+Pokud zadanym identifikacnim udajum neodpovida zadny evidovany [[object]], tak ERR1.
+
+== postconditions ==
+- Je urcen [[object]]. 
+
+== errors ==
+# [[object]] s [[attr]] = [%1] neni evidovan
+
+
