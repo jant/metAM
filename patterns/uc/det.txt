@@ -9,7 +9,7 @@ Uzivatel urci prave jeden [[object]] evidovany v systemu.
 == scenario ==
 
 System predlozi prazdny formular. Uzivatel zada nasledujici identifikacni udaje:
-- [[attr]]
+  - [[attr]]
 
 Pro zjisteni, ktere [[object]] jsou v systemu evidovane, uzivatel pouzije
 [[uc_list_seznam_object|seznam]].
@@ -17,9 +17,9 @@ Pro zjisteni, ktere [[object]] jsou v systemu evidovane, uzivatel pouzije
 Pokud zadanym identifikacnim udajum neodpovida zadny evidovany [[object]], tak ERR1.
 
 == postconditions ==
-- Je urcen [[object]]. 
+  - Je urcen [[object]]. 
 
 == errors ==
-# [[object]] s [[attr]] = [%1] neni evidovan
+  # [[object]] s [[attr]] = [%1] neni evidovan
 
 

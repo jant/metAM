@@ -13,7 +13,7 @@ Uzivatel urci [[object]], ktery chce zrusit.
 System zrusi kartu [[object]].
 
 == postconditions ==
-- Je zrusen [[object]]. 
+  - Je zrusen [[object]]. 
 
 == errors ==
 

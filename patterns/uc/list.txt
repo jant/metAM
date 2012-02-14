@@ -9,7 +9,7 @@ System predlozi seznam evidovanych [[object]].
 == scenario ==
 
 System predlozi seznam evidovanych [[object]], ktery obsahuje tyto udaje:
-- [[attr]]
+  - [[attr]]
 ...
 
 == postconditions ==

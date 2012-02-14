@@ -5,14 +5,14 @@
 Uzivatel u jiz evidovaneho [[object]] zmeni nektere udaje.
 
 == preconditions ==
-- Je evidovany [[object]] 
+  - Je evidovany [[object]] 
 
 == scenario ==
 
 Uzivatel [[uc_det_urceni_uctu|urci]] [[object]], jehoz udaje chce zmenit.
 
 System predlozi formular vyplneny udaji urceneho [[ucet]]. Uzivatel zada udaje:
-- [[attr]] {+}{i}
+  - [[attr]] {+}{i}
 ...
 
 Uzivatel odevzda vyplneny formular.
@@ -20,7 +20,7 @@ Uzivatel odevzda vyplneny formular.
 System [[uc_val_validace_object|overi platnost]] zadanych udaju. System zmeni udaje na karte [[object]].
 
 == postconditions ==
-- Je zmenen [[object]]. 
+  - Je zmenen [[object]]. 
 
 == errors ==
 

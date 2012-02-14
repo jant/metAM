@@ -10,16 +10,16 @@ omezeni a jsou platne.
 == scenario ==
 
 Pokud je poruseno nektere z nasledujicich omezeni, tak ERR#:
-# jednoznacnost: [[attr1]], [[attr2]], ...
-# [[attr]] je povinne
-# [[attr]] <= 20
-...
+  # jednoznacnost: [[attr1]], [[attr2]], ...
+  # [[attr]] je povinne
+  # [[attr]] <= 20
+  ...
 
 == postconditions ==
-- Udaje na formulari splnuji systemova omezeni a jsou platne.
+  - Udaje na formulari splnuji systemova omezeni a jsou platne.
 
 == errors ==
-# Jiz je evidovan jiny [[object]] s [[attr]] = [%1].
-# [[attr]] je povinne.
-# [[attr]] [%1] muze obsahovat maximalne 20 znaku.
+  # Jiz je evidovan jiny [[object]] s [[attr]] = [%1].
+  # [[attr]] je povinne.
+  # [[attr]] [%1] muze obsahovat maximalne 20 znaku.
 
