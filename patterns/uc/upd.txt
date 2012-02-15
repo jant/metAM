@@ -9,11 +9,11 @@ Uzivatel u jiz evidovaneho [[object]] zmeni nektere udaje.
 
 == scenario ==
 
-Uzivatel [[uc_det_urceni_uctu|urci]] [[object]], jehoz udaje chce zmenit.
+Uzivatel [[uc_det_urceni_object|urci]] [[object]], jehoz udaje chce zmenit.
 
 System predlozi formular vyplneny udaji urceneho [[ucet]]. Uzivatel zada udaje:
-  - [[attr]] {+}{i}
-...
+  - [[attr]]{+}{i}  prostrednictvim [[uc_det_urceni_attr]]
+  ...
 
 Uzivatel odevzda vyplneny formular.
 

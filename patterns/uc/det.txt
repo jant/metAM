@@ -20,6 +20,6 @@ Pokud zadanym identifikacnim udajum neodpovida zadny evidovany [[object]], tak E
   - Je urcen [[object]]. 
 
 == errors ==
-  # [[object]] s [[attr]] = [%1] neni evidovan
+  # [[object]] s [[attr]] = [%1] neni evidovan.
 
 

@@ -8,7 +8,7 @@ Uzivatel zrusi evidovany [[object]].
   
 == scenario ==
 
-Uzivatel urci [[object]], ktery chce zrusit.
+Uzivatel [[uc_det_urceni_object|urci]] [[object]], ktery chce zrusit.
 
 System zrusi kartu [[object]].
 

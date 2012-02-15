@@ -10,9 +10,9 @@ Zalozeni/zmena/zruseni [[object]].
 
 Pro zalozeni noveho [[object]] uzivatel pouzije [[uc_ins_zalozeni_object]].
 
-Pro zmenu udaju jiz evidovaneho [[ucet]] uzivatel pouzije [[uc_upd_zmena_object]].
+Pro zmenu udaju jiz evidovaneho [[object]] uzivatel pouzije [[uc_upd_zmena_object]].
 
-Pro zruseni evidovaneho [[ucet]] uzivatel pouzije [[uc_del_zruseni_object]].
+Pro zruseni evidovaneho [[object]] uzivatel pouzije [[uc_del_zruseni_object]].
 
 == postconditions ==
 

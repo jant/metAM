@@ -5,11 +5,13 @@
 Uzivatel zada udaje a system zalozi novy [[object]].
 
 == preconditions ==
+  - je evidovan [[neco]].
 
 == scenario ==
 
 System predlozi prazdny formular. Uzivatel zada udaje:
-  - [[attribute]] {+}{i}
+  - [[attr]]{+}{i}  prostrednictvim [[uc_det_urceni_attr]]
+  ...
 
 Uzivatel odevzda vyplneny formular. 
 
