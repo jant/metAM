@@ -23,3 +23,8 @@ Pouzivej pojmy:
 - jak pro primitivy, tak pro zaznamy pouzivaj spojeni "uzivatel zada" a
   nepouzivej pro zaznamy "uzivatel urci"
 
+- pokud se jedna o druh, typ, kategorii, tak v obecnem pojmu pouzivej dvouslovne
+  spojeni, at je to jasne
+
+- jmenou souboru MUSI souhlasit se jmenem prvku UML 
+

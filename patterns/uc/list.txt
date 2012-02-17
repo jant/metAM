@@ -8,7 +8,7 @@ System predlozi seznam evidovanych [[object]].
 
 == scenario ==
 
-System predlozi seznam evidovanych [[object]], ktery obsahuje tyto udaje:
+System predlozi seznam evidovanych [[object]]. Kazda polozka seznamu obsahuje tyto udaje:
   - [[attr]]
 ...
 
