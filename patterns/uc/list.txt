@@ -1,4 +1,4 @@
-= UseCase <<list>> Seznam object =
+= UseCase <<list>> objects =
 
 == description ==
 

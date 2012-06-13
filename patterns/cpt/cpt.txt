@@ -1,8 +1,13 @@
-= Object <<Concept>>  =
+= Object <<concept>> Object =
 
-Libovolny vystizny kratky text identifikujici ucet. Napr.  "penezenka", "bezny
-ucet", "kreditka".
+== description == 
 
-Libovolny text popisujici podrobneji ucet. Napr. "Moje penezenka", "Bezny ucet u CSOB", "Kreditni karta od UniCredit".
+Medical specialty. Lekarska specializace.
+
+== examples ==
+  - "ORL"
+  - "ortopedie"
+  - "oftalmologie"
+
 
 
